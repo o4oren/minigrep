@@ -1,2 +1,3 @@
 # minigrep
-Minigrep command line util from the Rust book
+Minigrep command line util from the Rust book.
+
