@@ -1,3 +1,5 @@
+![Rust](https://github.com/o4oren/minigrep/workflows/Rust/badge.svg)
+
 # minigrep
-Minigrep command line util from the Rust book.
+Started with the rust book minigrep example.
 
